@@ -1,0 +1,4 @@
+['/home/lizhuoqun/real_api', '/home/lizhuoqun/anconda/envs/py38/lib/python38.zip', '/home/lizhuoqun/anconda/envs/py38/lib/python3.8', '/home/lizhuoqun/anconda/envs/py38/lib/python3.8/lib-dynload', '/home/lizhuoqun/anconda/envs/py38/lib/python3.8/site-packages', '/home/lizhuoqun/real_api/data', '/home/lizhuoqun/real_api/model', '/home/lizhuoqun/real_api/tools', '/home/lizhuoqun/real_api/pre_train_cn']
+sentence level BERT
+will deal data
+len(data_list):  974
